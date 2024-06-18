@@ -238,6 +238,7 @@ li::marker{
     width: 240px;
     height: 56px;
     align-content: center;
+    text-align: center;
     margin: 5px 10px;
     perspective: 5rem;
 }
